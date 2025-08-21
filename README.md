@@ -141,5 +141,4 @@ The API saves user data persistently in `data.json` in the following format:
 
 ---
 
-### **🎯 Now You’re Ready to Use the API! 🚀**
-Let me know if you need any modifications! 🚀
+### ** Now You’re Ready to Use the API! **
